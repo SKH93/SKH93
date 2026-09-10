@@ -46,6 +46,11 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=windows&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ubuntu&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flask&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=slack&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googledrive&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googlecloud&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKH93&langs_count=5)](https://github.com/SKH93/github-readme-stats)
