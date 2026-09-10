@@ -21,7 +21,8 @@
 ### Contact&Channels
 ---
 ### 🖱️Tech
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%23FFFA78%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+<!--8EC5FC 파랑파스텔, E0C3FC 분홍파스텔 -->
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%23FFFA78%200%25%2C%20%238EC5FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pytorch&fill=linear-gradient%2862deg%2C%20%23FFB900%200%25%2C%20%23FF7E9D%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
