@@ -42,6 +42,10 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudio&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=octave&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=anaconda&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=windows&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ubuntu&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKH93&langs_count=5)](https://github.com/SKH93/github-readme-stats)
