@@ -20,38 +20,48 @@
 ---
 ### Contact&Channels
 ---
-### 🖱️Tech
+### 🖱️Tech&Skills
 <!--8EC5FC 파랑파스텔, E0C3FC 분홍파스텔 -->
+##### Programming Language
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient%2862deg%2C%20%23FFFA78%200%25%2C%20%238EC5FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pytorch&fill=linear-gradient%2862deg%2C%20%23FFB900%200%25%2C%20%23FF7E9D%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C%2B%2B&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+
+##### Framework&Library
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pytorch&fill=linear-gradient%2862deg%2C%20%23FFB900%200%25%2C%20%23FF7E9D%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flask&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spring&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=oracle&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pandas&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=numpy&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pycharm&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jupyter&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C%2B%2B&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudio&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=octave&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=anaconda&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+
+##### OS
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=windows&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=ubuntu&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flask&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=slack&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googledrive&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googlecloud&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
 
+##### DB & Cloud
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=oracle&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googlecloud&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+
+##### Tools
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=slack&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=googledrive&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&animation=spin)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKH93&langs_count=5)](https://github.com/SKH93/github-readme-stats)
 
