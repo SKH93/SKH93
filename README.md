@@ -6,11 +6,11 @@
   </a>
 </div>  
 ---
-###🦦Introduction🦦
+### 🦦Introduction🦦
 - 💻 AI Researcher & Engineer
 - 🇰🇷 Republic of Korea
 ---
-###<img width="112" height="112" alt="redpandalaugh" src="https://github.com/user-attachments/assets/df591c4e-e37d-4483-a644-6b09f5963eff" />Interest<img width="112" height="112" alt="redpandalaugh" src="https://github.com/user-attachments/assets/de74b566-4cff-47e9-8253-38dacc673175" />
+### <img width="50" height="50" alt="redpandalaugh" src="https://github.com/user-attachments/assets/df591c4e-e37d-4483-a644-6b09f5963eff" />Interest<img width="50" height="50" alt="redpandalaugh" src="https://github.com/user-attachments/assets/de74b566-4cff-47e9-8253-38dacc673175" />
 - 🤖 AI/Computer Science
 - 🔐 Computer Security
 - 🎮 Game
